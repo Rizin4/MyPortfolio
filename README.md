@@ -1,3 +1,3 @@
 # Portfolio
-My personal portfolio
+My personal portfolio:
  https://rizin4.github.io/Portfolio/
