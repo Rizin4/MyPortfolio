@@ -1,3 +1,3 @@
 # Portfolio
 My personal portfolio:
- [https://muhammedrisin.netlify.app/)
+ [https://rizin4.github.io/MyPortfolio/]( https://rizin4.github.io/MyPortfolio/)
